@@ -3,10 +3,15 @@
 
 - <b>Frontend Development</b>
   - [Praciting JavaScript, HTML & CSS](https://ehub.alxafrica.com/profile/325bb305-3e4c-4f67-968f-ceda43abbe7d)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b> 
-<h2> 🤳 Connect with me:</h2>
-<img align="left" alt="lestynejr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
-https://www.linkedin.com/in/celestine-nnamdi-jnr/<!--
+
+<h2> 🤳 Get In Touch:</h2>
+<img align="left" alt="lestynejr | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/whatsapp.svg"/>
++2347068205708 
+
+<img align="left" alt="lestynejr | Outlook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg"/>celestinennamdi@outlook.com 
+
+<img align="left" alt="lestynejr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>https://www.linkedin.com/in/celestine-nnamdi-jnr/
+<!--
 **lestynejr/lestynejr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
